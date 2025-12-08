@@ -9,6 +9,7 @@
 - HTML, CSS, JavaScript
 - REACT
 - Node.js, Express.js
+- postgreSQL
   
 - Render
 - Netlify
