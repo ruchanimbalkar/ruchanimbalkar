@@ -10,6 +10,7 @@
 - REACT
 - Node.js, Express.js
 - postgreSQL
+- Python
   
 - Render
 - Netlify
