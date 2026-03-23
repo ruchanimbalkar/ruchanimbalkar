@@ -1,5 +1,5 @@
 # Rucha Nimbalkar (She/Her)
-## Apprentice at ![Annie Cannons](https://anniecannons.org/static/media/ac-logo-color.d30f00708416b6d2cc0f.png)
+## Apprentice at ![Grassroots Grocery](https://www.grassrootsgrocery.org/)
 
 ### Tech I use:
 
