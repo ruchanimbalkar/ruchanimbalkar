@@ -6,10 +6,11 @@
 - Windows, MacBook
   
 - VS Code
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript , TypeScript
 - REACT
-- Node.js, Express.js
+- Node.js, Express.js , Next.js
 - postgreSQL
+- Supabase
 - Python
   
 - Render
