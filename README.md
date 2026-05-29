@@ -7,6 +7,7 @@
   
 - VS Code
 - HTML, CSS, JavaScript , TypeScript
+- Tailwind.css
 - REACT
 - Node.js, Express.js , Next.js
 - postgreSQL
